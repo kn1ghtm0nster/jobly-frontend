@@ -44,7 +44,7 @@ class JoblyApi {
 	 *
 	 */
 	static async getAllCompanies() {
-		const res = await this.request(`/`);
+		const res = await this.request(`/companies`);
 		return res.companies;
 	}
 
