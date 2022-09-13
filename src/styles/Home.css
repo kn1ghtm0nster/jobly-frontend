@@ -1,0 +1,21 @@
+.login-btn {
+	text-decoration: none;
+	color: white;
+}
+
+.signup-btn {
+	text-decoration: none;
+	color: white;
+}
+
+html,
+body {
+	height: 100%;
+	font-family: "Rubik", sans-serif;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background: hsla(186, 33%, 94%, 1);
+
+	background-position: center;
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#EBF4F5", endColorstr="#B5C6E0", GradientType=1 );
+}

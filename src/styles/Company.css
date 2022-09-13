@@ -1,0 +1,16 @@
+.company-link{
+    text-decoration: none;
+    color: white;
+}
+
+.company-link:hover{
+    color: grey;
+}
+
+.application-btn{
+    font-weight: bold;
+}
+
+.detail-btn{
+    font-weight: bold
+}
